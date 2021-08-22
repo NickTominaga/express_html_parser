@@ -1,0 +1,23 @@
+{
+  "name": "express_html_parser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:NickTominaga/express_index_template.git"
+  },
+  "author": "Nick Tominaga",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "json-cyclic": "^1.0.2",
+    "node-html-parser": "^4.1.3"
+  },
+  "setting": {
+    "port": "60000"
+  }
+}
